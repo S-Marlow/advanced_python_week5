@@ -1,0 +1,9 @@
+# you can use whatever libraries you like, but we recommend starting with these two
+# import requests
+# import numpy as np
+
+# Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key. You will have to sign up and get your own key (visit the link below)
+OPENWEATHERMAP_API_KEY = 'YOUR_API_KEY'
+OPENWEATHERMAP_API_URL = 'http://api.openweathermap.org/data/2.5/weather'
+
+# you can have your application run in the terminal or you can use a library like Tkinter to make it work on the desktop  
