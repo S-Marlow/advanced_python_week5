@@ -7,3 +7,14 @@ OPENWEATHERMAP_API_KEY = 'YOUR_API_KEY'
 OPENWEATHERMAP_API_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 # you can have your application run in the terminal or you can use a library like Tkinter to make it work on the desktop  
+#
+# Your application must meet the following requirements:
+#
+# 1- correctly displays data for a given user input (daily)
+# 2- displays t-3 data for a given user input (past 3 days)
+# 3- displays t+5 data for a given user input (weekly forecast)
+# 4- displays 3-year-average for a given input to a particular day (historical data average)
+
+# students will be graded based on attempted code. if no solution is attemped for a given criteria, minimum score will be given (5 points)
+# MVP is 55 points across all four criteria 
+# students are encouraged to read openweathermap.org documentation before attempting to write their solution
